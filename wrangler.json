@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bangaldesh",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "012197ae-539b-4f55-a487-505da5c3657b",
+			"database_name": "bangaldesh"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
